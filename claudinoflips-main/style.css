@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(74, 112, 38);
+    color: rgb(8, 126, 96);
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.filme{
+    text-align: center;
+}
+.cartaz{
+    height: 150px;
+width: 25%;}
+
+.filmetodo{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.containerbotao{
+    background-color: red;
+    color: white;
+    font-size: 45px;
+    border-radius: 50px;
+
+
+}
+
+
+.botao{
+    text-align: center;
+}
+
+
+
+
